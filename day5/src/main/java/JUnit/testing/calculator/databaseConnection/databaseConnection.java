@@ -1,4 +1,4 @@
-package JUnit.testing.calculator.DatabaseConnection;
+package JUnit.testing.calculator.databaseConnection;
 
 
 public class databaseConnection {
